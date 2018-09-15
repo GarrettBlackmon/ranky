@@ -1,0 +1,13 @@
+{ 
+    "token"      : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "prefix"     : "!",
+    "admin"      : "473247063099047936",
+    "tier1"      : "489694665478766603",
+    "tier2"      : "489694866477940736",
+    "tier3"      : "489695040084377601",
+    "tier4"      : "489695129528172555",
+    "milestone1" : 50,
+    "milestone2" : 250,
+    "milestone3" : 500,
+    "milestone4" : 2000
+  }

@@ -1,0 +1,16 @@
+{
+  "name": "ranky",
+  "version": "1.0.0",
+  "description": "Simple, open-source, discord activity ranking bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrett Blackmon",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "discord.js": "*",
+    "quick.db": "*"
+  }
+}
